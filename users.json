@@ -1,0 +1,34 @@
+{
+  "users": [
+  {
+    "name": "Richard",
+    "age": 33,
+    "location": "St. Louis, MO",
+    "married": false 
+  },
+  {
+    "name": "John",
+    "age": 24,
+    "location": "Marion, IL",
+    "married": false 
+  },
+  {
+    "name": "Eduardo",
+    "age": 25,
+    "location": "Nashville, IL",
+    "married": true 
+  },
+  {
+    "name": "Sally",
+    "age": 44,
+    "location": "Makanda, IL",
+    "married": true 
+  },
+  {
+    "name": "Rachel",
+    "age": 21,
+    "location": "Chicago, IL",
+    "married": false 
+  }
+]
+}
